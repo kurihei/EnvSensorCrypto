@@ -1,0 +1,34 @@
+The future created by IoT and crypto currencies
+
+
+written by Kenichi Kurimoto
+translated by Yoshimitsu Jimmy Homma
+
+Crypto currencies including Bitcoin has high expectation and potential. But they are not mass adopted yet and they are looking for killer applications. I am describing a potential market by IoT and crypto currency.
+
+I was developing distributed earthquake recorder system around CY2011. It cost 10,000 USD to buy a recorder. But the plan was to deploy much cheaper recorders costing several hundreads USD with 100 meter interval and visualize behavior of earthquake waves.
+
+I developed the prototype and visited Tohoku area several times to talk with local governments where they had aftershock often after 2011. But there was a barrier to enter the market.
+
+Local governments were welcoming the idea and cooperative for the deployment. But they did not have enough budget. This was not a profitable business to establish a corporation. It cost a lot to develop and deploy hardware. It was desirable for citizens to deploy hardware voluntarily as they were the benefit receives. But such scene did not happen.
+
+On the other hand, Bitcoin was spreading as a money by the people. The incentive for spread might be for speculation. But it was still worth studying Bitcoin as it was spreading by grass root activity.
+
+I reached a conclusion which is to use crypto currency to incentivize public sectors, corporations and people. Deployer of sensors should receive proper rewards then they will be incentivized to deploy sensors effectively. The equipment with sensor has private key which is owned by an individual. The uploaded data is signed by the private key and the contribution will be detected. The reward will be calculated by contribution.
+
+Growing eco-system with proper incentive is important. The early deployer has higher risk. Therefore return should be higher like Bitcoin. This will reduce the risk at earlier period when final return is not clear.
+
+The necessary deployment for necessary area is important with proper incentive. Google map is a general place to display the result of sensors. The higher demand area will have more frequent views and zoom in will be expected. The statistical data of views will lead higher return for nodes with higher views. The map is supposed to show expecting fee for new nodes.
+
+The estimated sales will come from banner on the web, subsidy from the central and local government, sales of data and donation. These sales will be distributed to the nodes as rewards.
+
+If the eco-system has economic incentive like described above, higher demand area will have higher density of sensors effectively. The cost of electricity will be paid and the acquirer of higher necessary data can be rewarded properly.
+
+Internet of Money can be applied into a sector where economic incentive does not work yet. Some crypto currency which is not backed by entity can connect individual, corporation, government and  local government as glue logic. This is more functional than points backed by corporations. The combination of group of individuals and government can be possible.
+
+This is a proposal of  environmental sensors which combines IoT and crypto currency. The character of crypto currency is following.
+
+No entity to issue the currency.
+Reliable open source system to trade currency is already existing.
+
+Crypto currencies are sometimes criticized as they does not have clear market and application. But I am seeing a huge potential for IoT and crypto currencies.
